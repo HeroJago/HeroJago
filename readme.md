@@ -1,7 +1,7 @@
-<h1 align="center">Halo, namaSaya = CyonXploit</h1>
-<h3 align="center">Suka Ngoding Tools DoS, tapi kadang jadi cyberSecurity</h3>
+<h1 align="center">Halo, namaSaya = Cyon</h1>
+<h3 align="center">Suka Ngoding, tapi kadang jadi cyberSecurity</h3>
 
-- 🔭 projectTerkini = [Automation Setup Botnet](-)
+- 🔭 projectTerkini = [ImproveSkill](-)
 
 - 🌱 lagiBelajar = **Laravel, React, Flask, DevOps, cyberSecCTF**
 
@@ -9,7 +9,7 @@
 
 - 📫 Discord : **thinkpadmaster**
 
-- 📄 Experience = [5 years](5 years)
+- 📄 Experience = **5+ years**
 
 - ⚡ Fun fact **I can't do jokes, even Dad Jokes**
 
