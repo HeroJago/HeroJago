@@ -9,7 +9,7 @@
 
 - 📫 Discord : **thinkpadmaster**
 
-- 📄 Experience = **5+ years**
+- 📄 Experience = **since January 12th 2020**
 
 - ⚡ Fun fact **I can't do jokes, even Dad Jokes**
 
