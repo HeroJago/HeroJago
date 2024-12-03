@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I can't do jokes, even Dad Jokes**
 
+- Note : Don't mind my Repositories pls. I've let it all go
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://join.the2challiance.my.id/" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6918e57475a843f59f_icon_clyde_black_RGB.svg" alt="cyonproject" height="30" width="40" /></a>
