@@ -3,7 +3,7 @@
 
 - 🔭 projectTerkini = [ImproveSkill](-)
 
-- 🌱 lagiBelajar = **Laravel, React, Flask, DevOps, cyberSecCTF**
+- 🌱 lagiBelajar = **Laravel(NF), React(NF), Flask, DevOps, cyberSecCTF** NF = NotFocused
 
 - 💬 Kamu dapat bertanya = **Library Library dari banyak bahasa pemrograman**
 
