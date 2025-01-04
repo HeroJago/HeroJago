@@ -9,7 +9,7 @@
 
 - 📫 Discord : **thinkpadmaster**
 
-- 📄 Experience = **since January 12th 2020**
+- 📄 Experience = **Code since January 12th 2020, Start Github - 2023**
 
 - ⚡ Fun fact **I can't do jokes, even Dad Jokes**
 
