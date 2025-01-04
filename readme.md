@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I can't do jokes, even Dad Jokes**
 
-- Note : Don't mind my Repositories pls. I've let it all go
+- Note : Don't mind my Old Repositories pls. I've let it all go
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
