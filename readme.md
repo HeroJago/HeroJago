@@ -1,7 +1,7 @@
 <h1 align="center">Halo, namaSaya = Cyon</h1>
 <h3 align="center">Suka Ngoding, tapi kadang jadi cyberSecurity</h3>
 
-- 🔭 projectTerkini = [ImproveSkill](-)
+- 🔭 projectTerkini = [Learning Game Dev](https://github.com/HeroJago/spigot-template-fork)
 
 - 🌱 lagiBelajar = **Laravel(NF), React(NF), Flask, DevOps, cyberSecCTF** NF = NotFocused
 
